@@ -1,0 +1,7 @@
+"","filec.Subjects..is.na.file3_match.."
+"1","Data Structures in C"
+"2","Analysis and Design of Algorithms"
+"3","Operating Systems"
+"4","Database management"
+"5","Web Technology"
+"6","Computer Networks"

@@ -1,0 +1,7 @@
+"","filed.Subjects..is.na.file4_match.."
+"1","Data Structures in C"
+"2","Design and Analysis of Algorithms"
+"3","Database Management"
+"4","Machine Learning"
+"5","Computer Networks 2"
+"6","Artificial Intelligence"
